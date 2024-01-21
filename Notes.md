@@ -25,3 +25,6 @@
 
 ## Step 7: Load requirements file
 #### pip freeze > requirements.txt
+
+## Step 8: Install requirements
+#### pip install -r requirements.txt
