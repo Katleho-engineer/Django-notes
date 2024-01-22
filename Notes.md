@@ -28,3 +28,10 @@
 
 ## Step 8: Install requirements
 #### pip install -r requirements.txt
+
+## Step 9: Test
+#### python manage.py test
+
+## Step 9: Coveraage report
+#### pip install coverage
+#### coverage run manage.py test -v 2 && coverage report
